@@ -142,7 +142,8 @@ footer a:hover {
     text-decoration: underline;
 }
 
-footer a:visited {
+footer a:visited,
+footer a {
     color: var(--color-primary-1);
 }
 
