@@ -3,7 +3,7 @@ Este é um projeto que visa criar um gerador de senhas aleatórias com a capacid
 <br/>
 <img src="https://github.com/dyonneEberty/passwordGenerator/blob/main/src/images/screenshot1.png?raw=true" style="width: 500px" />
 <img src="https://github.com/dyonneEberty/passwordGenerator/blob/main/src/images/screenshot2.png?raw=true" style="width: 500px" />
-#### Deploy: [passwordGenerator](https://jogo-do-numero-secreto-ashen-ten.vercel.app/)
+#### Deploy: [passwordGenerator](https://password-generator-bay-gamma.vercel.app/)
 
 ## Descrição
 O Projeto Gerador de Senhas Aleatórias é uma aplicação simples desenvolvida em HTML, CSS e JavaScript, com o auxílio da biblioteca Toastify.js. Ele permite a geração de senhas seguras e aleatórias, oferecendo a flexibilidade de personalização de acordo com as necessidades do usuário. Toastify.js foi responsavél pela personalização de 'alerta' na validação de dados de entrada.
