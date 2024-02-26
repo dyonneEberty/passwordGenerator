@@ -1,5 +1,9 @@
 # Projeto Gerador de Senhas Aleatórias
 Este é um projeto que visa criar um gerador de senhas aleatórias com a capacidade de incluir caracteres maiúsculos, minúsculos, numéricos e especiais.
+<br/>
+<img src="https://github.com/dyonneEberty/passwordGenerator/blob/main/src/images/screenshot1.png?raw=true" style="width: 500px" />
+<img src="https://github.com/dyonneEberty/passwordGenerator/blob/main/src/images/screenshot2.png?raw=true" style="width: 500px" />
+#### Deploy: [passwordGenerator](https://jogo-do-numero-secreto-ashen-ten.vercel.app/)
 
 ## Descrição
 O Projeto Gerador de Senhas Aleatórias é uma aplicação simples desenvolvida em HTML, CSS e JavaScript, com o auxílio da biblioteca Toastify.js. Ele permite a geração de senhas seguras e aleatórias, oferecendo a flexibilidade de personalização de acordo com as necessidades do usuário. Toastify.js foi responsavél pela personalização de 'alerta' na validação de dados de entrada.
@@ -9,9 +13,7 @@ O principal desafio deste projeto é criar funções responsáveis por diferente
 
 ### Tecnologias Utilizadas
 
-    HTML
-    CSS
-    JavaScript
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Biblioteca
 
@@ -35,7 +37,6 @@ O principal desafio deste projeto é criar funções responsáveis por diferente
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests para este projeto.
 Autor
 
-Este projeto foi desenvolvido por [dyonneEberty].
 
 <hr>
 
